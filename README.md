@@ -19,7 +19,7 @@
 
 我只想用最简单的方式为你提供最好的使用体验。
  <br>**这是一个为你提供免费科学/自由上网，免费ss/ssr/v2ray/goflyway账号的Android 应用**
- <br><br>[免费SSR账号APP下载地址](https://github.com/YuAmbrose/Free-SSR-Shadowsocks/blob/master/SSRFreeShadowSocks.apk)
+ <br><br>[免费SSR账号APP下载地址](https://github.com/YuAmbrose/Free-SSR-Shadowsocks/raw/master/SSRFreeShadowSocks.apk)
 
 
 注：免费的节点也许都很烂，但都是我筛选出来比较合适的节点了。
