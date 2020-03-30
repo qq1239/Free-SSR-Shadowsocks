@@ -18,8 +18,9 @@
 『See more,See far』
 
 我只想用最简单的方式为你提供最好的使用体验。
- <br>**这是一个为你提供免费科学/自由上网，免费ss/ssr/v2ray/goflyway账号的Android 应用**
- <br><br>[免费SSR账号APP下载地址](https://github.com/YuAmbrose/Free-SSR-Shadowsocks/raw/master/SSRFreeShadowSocks.apk)
+ <br>**Free Shadowsocks免费SSR SHADOWSOCKS节点「免费VPN 高速 稳定 梯子 科学上网  翻墙 Free Vpn」免费ss,ssr,v2ray账号的Android应用**
+ <br><br>[APP  github下载地址](http://file.yiyuen.com/file/download/18025)
+ <br><br>[APP  googlePlay下载地址](https://play.google.com/store/apps/details?id=com.ambrose.overwall)
 
 
 注：免费的节点也许都很烂，但都是我筛选出来比较合适的节点了。
@@ -39,14 +40,7 @@
 
 <br>
 
-收集的节点网址为：
 
-- https://www.youneed.win
-- https://jichangdaquan.com
-- https://fx.tmioe.com
-- https://www.go2free.xyz
-- http://ss.pythonic.life/
-- https://free2.gyteng.com
 
 
 <br>
@@ -54,8 +48,9 @@
 <html>
 <table><tr>
 <td><img src="https://github.com/YuAmbrose/Free-SSR-Shadowsocks/blob/master/ScreenShot/sssfree.png?raw=true"></td>
-<td><img src="https://github.com/YuAmbrose/Free-SSR-Shadowsocks/blob/master/ScreenShot/WechatIMG14.jpeg?raw=true"></td>
-<td><img src="https://github.com/YuAmbrose/Free-SSR-Shadowsocks/blob/master/ScreenShot/WechatIMG13.jpeg?raw=true"></td>
+<td><img src="https://i.ibb.co/sPGxs0H/Screenshot-20200302-014935-SSR-VPN.jpg"></td>
+<td><img src="https://i.ibb.co/Lpj3bcy/Screenshot-20200302-014941-SSR-VPN.jpg"></td>
+ <td><img src="https://i.ibb.co/2cGjj8Z/Screenshot-20200302-015049-SSR-VPN.jpg"></td>
 <td><img src="https://github.com/YuAmbrose/Free-SSR-Shadowsocks/blob/master/ScreenShot/WechatIMG12.jpeg?raw=true"></td>
 <td><img src="https://github.com/YuAmbrose/Free-SSR-Shadowsocks/blob/master/ScreenShot/WechatIMG11.jpeg?raw=true"></td>
 </tr></table>
