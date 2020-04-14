@@ -19,7 +19,7 @@
 
 我只想用最简单的方式为你提供最好的使用体验。
  <br>**Free Shadowsocks免费SSR SHADOWSOCKS节点「免费VPN 高速 稳定 梯子 科学上网  翻墙 Free Vpn」免费ss,ssr,v2ray账号的Android应用**
- <br><br>[APP  github下载地址](https://github.com/YuAmbrose/Free-SSR-Shadowsocks/raw/master/ssrvpn_2.4.0.apk)
+ <br><br>[APP  github下载地址](https://github.com/YuAmbrose/Free-SSR-Shadowsocks/raw/master/27__2.5.0__2020-04-13.apk)
  <br><br>[APP  googlePlay下载地址](https://play.google.com/store/apps/details?id=com.ambrose.overwall)
 
 
